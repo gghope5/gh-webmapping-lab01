@@ -1,6 +1,6 @@
 # Gloria Hope
 
-<img src="/img_0855_0.jpg" width='150'>
+<img src="img_0855_0.jpg" width='150'>
 
 hopegg@appstate.edu
 
