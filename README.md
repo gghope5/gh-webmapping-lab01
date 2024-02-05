@@ -1,6 +1,6 @@
 # Gloria Hope
 
-<img src="img_0855_0.jpg" width='150'>
+<img src="[img_0855_0.jpg](https://github.com/gghope5/gh-webmapping-lab01/blob/e90528900607201dc3dee6f1ebeb4c02dbec448a/img_0855_0.jpg)" width='150'>
 
 hopegg@appstate.edu
 
